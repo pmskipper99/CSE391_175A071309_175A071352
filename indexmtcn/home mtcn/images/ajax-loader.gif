@@ -1,0 +1,329 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="author" content="phucminhltd.com">
+	<title>Loi 404</title>
+    <link rel="stylesheet" type="text/css" href="../css/reset_1.css">
+    <link rel="stylesheet" type="text/css" href="../css/loi404.css">     
+    <script language="javascript" type="text/javascript" src="../js/jquery.min.js"></script>
+    <script src="../js/functions2_1.js" type="text/javascript" language="javascript"></script>
+</head>
+<body>
+  <div id="main">
+    <div id="middle" class="parallax" style="background-position: 0% 42px;"></div>
+    <div id="far" class="parallax" style="background-position: 0% 14px;"></div>
+    <div class="header">
+       <div class="bg">
+           <div class="logo">
+                <h1>
+                  <a class="designs-logo" href title>Trang tin cộng đồng thiết kế | Designs.vn</a>
+                </h1>
+           </div>
+           <div class="lienhe">
+              <div class="lienhe-dt">
+                <p>Hãy gọi để được phục vụ</p>
+                <span>04 37950688</span>
+              </div>
+              <div class="or">...hoặc...</div>
+              <div class="lienhe-email">
+                <p>Gửi email cho chúng tôi</p>
+                <span>info@designs.vn</span>
+              </div>
+              
+           </div>
+       </div>
+    </div>
+    <div class="center">
+       <img src="chu.png">
+    </div>
+    <p style="text-align: center; margin-top: 100px; border-top: 2px solid rgb(19, 61, 73);">
+        <img width="742" height="251" src="washing_line_x2.png" style="position:relative;top:-23px">
+   </p>
+   <div class="footer-1">
+     <div class="text">
+       <p>Đường link này hiện không tồn tại.</p>
+       <a href="http://designs.vn/">Quay lại trang trước</a><br>
+       <a href="http://designs.vn/">Đến trang chủ</a>
+       <div class="search">
+        <form method="post" action onsubmit="return search_news('tim-kiem')">
+                        <input type="text" id="keysearch" name="q" onblur="this.value=(this.value=='') ? 'Tìm kiếm ..' : this.value;" onfocus="this.value=(this.value=='Tìm kiếm ..') ? '' : this.value;" value="Tìm kiếm ..">
+                        <input type="submit" value name>
+                    </form>
+
+       </div>
+       <p style="margin-top: 110px;">Hãy khám phá designs.vn</p>
+     </div>
+   </div>
+  </div>
+  <div class="footer">
+     <div class="bg2">
+         <div class="coll-l" style="width: 692px;float: left;">
+            <div class="col">
+                <div class="title-col">Tin tức</div>
+                    <ul>
+                        <li>
+                       <a href="http://designs.vn/tin-tuc/thiet-ke-kien-truc.html" title="Thiết kế kiến trúc">Thiết kế kiến trúc</a>
+                        </li>
+                        <li>
+                         <a href="http://designs.vn/tin-tuc/thiet-ke-san-pham.html" title="Thiết kế sản phẩm">Thiết kế sản phẩm</a>
+                        </li>
+                        <li>
+                           <a href="http://designs.vn/tin-tuc/do-hoa-quang-cao.html" title="Đồ họa quảng cáo">Đồ họa quảng cáo</a>
+                        </li>
+                        <li>
+                           <a href="http://designs.vn/tin-tuc/thiet-ke-noi-that.html" title="Thiết kế nội thất">Thiết kế nội thất</a>
+                        </li>
+                    </ul>
+            </div>
+            <div class="col">
+                <div class="title-col">Các cuộc thi</div>
+                    <ul>
+                        <li>
+                           <a href="http://designs.vn/tin-tuc/cuoc-thi-quoc-te.html">Cuộc thi quốc tế</a>
+                        </li>
+                        <li>
+                           <a href="http://designs.vn/tin-tuc/cuoc-thi-trong-nuoc.html">Cuộc thi trong nước</a>
+                        </li>
+                    </ul>
+            </div>
+            
+            <div class="col">
+                <div class="title-col">Mẫu thiết kế</div>
+                    <ul>
+                        <li>
+                          <a href="http://designs.vn/tin-tuc/mau-noi-that-dep.html" title="Mẫu nội thất đẹp">Mẫu nội thất đẹp</a>
+                        </li>
+                        <li>
+                          <a href="http://designs.vn/tin-tuc/mau-home-furniture.html" title="Đồ nội thất gia đình">Đồ nội thất gia đình</a>
+                        </li>
+                        <li>
+                          <a href="http://designs.vn/tin-tuc/mau-biet-thu-nha-pho.html" title="Mẫu biệt thự nhà phố">Mẫu biệt thự nhà phố</a>
+                        </li>
+                        <li>
+                           <a href="http://designs.vn/tin-tuc/mau-office-furniture.html" title="Mẫu office furniture">Mẫu office furniture</a>
+                        </li>
+                        <li>
+                          <a href="http://designs.vn/tin-tuc/nha-hang-bar-amp-cafe.html" title="Mẫu nhà hàng & bar ">Mẫu nhà hàng & bar </a>
+                        </li>
+                        <!--
+<li>
+                           <a href="http://designs.vn/tin-tuc/trien-lam-su-kien.html" title="Tri?n l?m, s? ki?n">Tri?n l?m, s? ki?n</a>
+                        </li>
+                          <li>
+                          <a href="http://designs.vn/tin-tuc/to-hop-kien-truc.html" title="T? h?p ki?n trúc">T? h?p ki?n trúc</a>
+                        </li>
+                          <li>
+                          <a href="http://designs.vn/tin-tuc/mau-noi-that-van-phong.html" title="N?i th?t văn ph?ng">N?i th?t văn ph?ng</a>
+                        </li>
+-->
+                    </ul>
+            </div>
+            <div class="col">
+                <div class="title-col">Tutorial</div>
+                    <ul>
+                        <li>
+                           <a href="http://designs.vn/tin-tuc/kien-thuc-xay-nha-dep.html" title="Kiến thức xây nhà ">Kiến thức xây nhà </a>
+                        </li>
+                        <li>
+                          <a href="http://designs.vn/tin-tuc/anh-sang-trong-noi-that.html" title="Ánh sáng nội thất">Ánh sáng nội thất</a>
+                        </li>
+                        <li>
+                          <a href="http://designs.vn/tin-tuc/phoi-mau-trong-noi-that.html" title="Phối màu nội thất">Phối màu nội thất</a>
+                        </li>
+                        <li>
+                           <a href="http://designs.vn/tin-tuc/thiet-ke-bia-sach-dep.html" title="Thiết kế bìa sách">Thiết kế bìa sách</a>
+                        </li>
+                        <li>
+                          <a href="http://designs.vn/tin-tuc/ky-thuat-chup-anh.html" title="Kỹ thuật chụp ảnh">Kỹ thuật chụp ảnh</a>
+                        </li>
+                        <li>
+                          <a href="http://designs.vn/tin-tuc/do-hoa-quang-cao.html" title="Thiết kế đồ họa">Thiết kế đồ họa</a>
+                        </li>
+                    </ul>
+            </div> 
+           <div class="list-dt">
+                <div class="title-col" style="margin-top: 20px;">Đối tác</div>
+                <ul>
+                   <li>
+                        <a href>
+                        <img src="logo_MTCN24.jpg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href>
+                        <img src="logo_MTCN24.jpg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href>
+                        <img src="logo_MTCN24.jpg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href>
+                        <img src="logo_MTCN24.jpg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href>
+                        <img src="logo_MTCN24.jpg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href>
+                        <img src="logo_MTCN24.jpg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href>
+                        <img src="logo_MTCN24.jpg">
+                        </a>
+                    </li>
+                    <li>
+                        <a href>
+                        <img src="logo_MTCN24.jpg">
+                        </a>
+                    </li>
+                </ul>
+         </div>
+         </div>
+         <div class="col">
+                <div class="title-col">Dịch vụ</div>
+                    <ul>
+                        <li>
+                          <a href="http://designs.vn/tin-tuc/-dich-vu-moi-gioi-thiet-ke-_11013.html" title="Môi giới thiết kế">Môi giới thiết kế</a>
+                        </li>
+                        <li>
+                          <a href="http://designs.vn/tin-tuc/quang-cao-tren-designs-vn_11011.html" title="Quảngcáo trên Design">Quảngcáo trên Design</a>
+                        </li>
+                        <li>
+                          <a href="designs.vn/tin-tuc/dich-vu-to-chuc-cuoc-thi-thiet-ke_11025.html" title="Tổ chức cuộc thi">Tổ chức cuộc thi</a>
+                        </li>
+                        <li>
+                          <a href="http://designs.vn/tin-tuc/dich-vu-gioi-thieu-viec-lam_11045.html" title="Giới thiệu việc làm">Giới thiệu việc làm</a>
+                        </li>
+                    </ul>
+                   <div class="title-col">Kết nối</div>
+                   <ul>
+                        <li>
+                           <a href="http://facebook.com/designs.vn" title="Designs on Facebook">Designs on Facebook</a>
+                        </li>
+                        <li>
+                           <a href="https://twitter.com/designsvn3D" title="Designs on Twitter">Designs on Twitter</a>>
+                        </li>
+                        <li>
+                           <a href="http://my.opera.com/designsvn" title="Designs on Myopera">Designs on Myopera</a>
+                        </li>
+                        <li>
+                           <a href="http://designsvn3d.wordpress.com/" title="Designs on Wordpress">Designs on Wordpress</a>
+                        </li>
+                        <li>
+                           <a href="http://designsvntutorials.blogspot.com/" title="Designs on Blogspot">Designs on Blogspot</a>
+                        </li>
+                    </ul>
+                    <div class="title-col">Giới thiệu</div>
+                    <ul>
+                        <li>
+                           <a href="http://designs.vn/tin-tuc/gioi-thieu-designs-vn_5856.html" title="Designs.vn xin chào">Designs.vn xin chào</a>
+                        </li>
+                        <li>
+                           <a href="http://designs.vn/tin-tuc/lien-he-va-tro-giup_11574.html" title="Liên hệ và trợ giúp">Liên hệ và trợ giúp</a>
+                        </li>
+                        <li>
+                          <a href="http://designs.vn/tin-tuc/cong-tac-voi-designs_4243.html" title="Cộng tác ">Cộng tác </a>
+                        </li>
+                        <li>
+                          <a href="http://designs.vn/tin-tuc/quyen-loi-khi-dang-ky-thanh-vien-tren-designs-vn_7681.html" title="Đăng ký thành viên">Đăng ký thành viên</a>
+                        </li>
+                         <li>
+                         <a href="http://designs.vn/tin-tuc/moi-hop-tac-ban-san-pham_12062.html" title="Bán sản phẩm FREE">Bán sản phẩm FREE</a>
+                        </li>
+                    </ul>
+            </div>
+            <div class="col">
+                <div class="title-col">Xu hướng</div>
+                    <ul>
+                        <li>
+                          <a rel="author" target="_blank" href="https://plus.google.com/106681223605486798540?rel=author">Designs.vn</a>
+                        </li>
+                        <li>
+                          <a href="http://designs.vn/tin-tuc/moi-tuan-mot-nhan-vat.html" title="Nhà thiết kế">Nhà thiết kế</a>
+                        </li>
+                        <li><a href="http://designs.vn/y-tuong.html" title="Mẫu thiết kế">Mẫu thiết kế</a></li><li><a href="http://danhba.designs.vn/danh-ba-thiet-ke.html" title="Công ty thiết kế">Công ty thiết kế</a></li><li><a href="http://designs.vn/cuoc-thi-thiet-ke.html" title="Cuộc thi thiết kế">Cuộc thi thiết kế</a></li><li><a href="http://designs.vn/tin-tuc/thiet-ke-thoi-trang.html" title="Thiết kế thời trang">Thiết kế thời trang</a></li><li><a href="http://designs.vn/tim-kiem/%E1%BA%A3nh%20c%C6%B0%E1%BB%9Bi%20%C4%91%E1%BA%B9p%202013" title="Ảnh cưới đẹp 2013">Ảnh cưới đẹp 2013</a></li><li><a href="http://designs.vn/tim-kiem/trang-tri-tiec-cuoi" title="Trang trí tiệc cưới ">Trang trí tiệc cưới </a></li><li><a href="http://designs.vn/tim-kiem/vay-cuoi-dep" title="Váy cưới đẹp 2013">Váy cưới đẹp 2013</a></li><li><a href="http://designs.vn/tim-kiem/thiep-cuoi-2013" title="Thiệp cưới 2013">Thiệp cưới 2013</a></li><li><a href="http://designs.vn/tin-tuc/logo-amp-brand-identity.html" title="Logo đẹp">Logo đẹp</a></li><li><a href="http://designs.vn/tim-kiem/Typography" title="Typography">Typography</a></li><li><a href="http://designs.vn/tim-kiem/cafe%20s%C3%A2n%20v%C6%B0%E1%BB%9Dn" title="Cafe sân vườn">Cafe sân vườn</a></li><li><a href="http://designs.vn/tim-kiem/c%E1%BA%A7u%20thang%20%C4%91%E1%BA%B9p" title="Cầu thang đẹp">Cầu thang đẹp</a></li><li><a href="http://designs.vn/tim-kiem/nh%C3%A0%20%C4%91%E1%BA%B9p" title="Nội thất nhà đẹp">Nội thất nhà đẹp</a></li><li><a href="http://designs.vn/tin-tuc/ky-thuat-chup-anh.html" title="Cách chụp ảnh đẹp">Cách chụp ảnh đẹp</a></li><li><a href="http://designs.vn/tin-tuc/60-mau-quan-cafe-san-vuon-p2-_10836.html" title="Cafe san vuon">Cafe san vuon</a></li><li><a href="http://designs.vn/tin-tuc/29-mau-logo-thoi-trang_7958.html" title="Logo thoi trang">Logo thoi trang</a></li><li><a href="http://nuockhoangtinhkhiet.vn/" title="Nước tinh khiết">Nước tinh khiết</a></li> 
+                    </ul>
+            </div>
+     </div>
+   </div>
+   <div id="toplink" style="display: block;">
+        <a href="#" title="Back to Top"></a>
+    </div>
+    <script language="javascript">
+        $(document).ready(function(){
+        // hide #back-top first
+        $("#toplink").hide();
+        // fade in #back-top
+        $(function () {
+        $(window).scroll(function () {
+        if ($(this).scrollTop() > 100) {
+        $('#toplink').fadeIn();
+        } else {
+        $('#toplink').fadeOut();
+        }
+        });
+        // scroll body to 0px on click
+        $('#toplink a').click(function () {
+        $('body,html').animate({
+        scrollTop: 0
+        }, 800);
+        return false;
+        });
+        });
+        var w = $(document).width();
+        if(w < 1000){
+        $(".addthis_toolbox").hide();
+        }
+        });
+        $(document).ready(function(){
+        var checkpop = $.cookie("closepopup");
+        if(checkpop != 1){
+        (function($){
+        //Căn giữa phần tử thuộc tính là absolute so với phần hiển thị của trình duyệt, chỉ dùng cho phần tử absolute đối với body
+        $.fn.absoluteCenter = function(){
+        this.each(function(){
+        var top = -($(this).outerHeight() / 2)+'px';
+        var left = -($(this).outerWidth() / 2)+'px';
+        $(this).css({'position':'absolute', 'position':'fixed', 'margin-top':top, 'margin-left':left, 'top':'50%', 'left':'50%'});
+        return this;
+        });
+        }
+        })(jQuery);
+        //Đặt biến cho các đối tượng để gọi dễ dàng
+        var bg=$('div#popup-bg');
+        var obj=$('div#popup');
+        var btnClose=obj.find('#popup-close');
+        //Hiện các đối tượng
+        bg.animate({opacity:0.75},0).fadeIn(1000); //cho nền trong suốt
+        obj.fadeIn(1000).draggable({cursor:'move',handle:'#popup-header'}).absoluteCenter(); //căn giữa popup và thêm draggable của jquery UI cho phần header của popup
+        //Đóng popup khi nhấn nút
+        btnClose.click(function(){
+        bg.fadeOut(1000);
+        obj.fadeOut(1000);
+        $.cookie("closepopup", "1", { expires: 1 });
+        });
+        //Đóng popup khi nhấn background
+        bg.click(function(){
+        btnClose.click(); //Kế thừa nút đóng ở trên
+        });
+        //Đóng popup khi nhấn nút Esc trên bàn phím
+        $(document).keydown(function(e){
+        if(e.keyCode==27){
+        btnClose.click(); //Kế thừa nút đóng ở trên
+        }
+        });
+        return false;
+        }
+        });
+    </script>
+</body>
+</html>
