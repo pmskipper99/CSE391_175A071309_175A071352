@@ -1,0 +1,30 @@
+#post{
+
+width:760px;
+height: 400px;
+
+float: left;
+margin-top: 70px;
+margin-left: 32px;
+} 
+
+#sidebar{
+	width:245px;
+	height: 150px;
+	
+	float: right;
+	margin-top: 70px;
+	margin-right: 32px;
+}
+
+#sidebar img{
+	width:245px;
+	height: 28px;
+	margin-bottom: 20.08px;
+}
+
+
+
+
+ 
+
