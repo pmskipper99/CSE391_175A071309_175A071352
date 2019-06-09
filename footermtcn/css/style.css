@@ -1,34 +1,3 @@
-.body{
-	color: black;
-}
-
-
-
-#post{
-
-width:760px;
-height: 400px;
-
-float: left;
-margin-top: 70px;
-margin-left: 32.5px;
-} 
-
-#sidebar{
-	width:245px;
-	height: 150px;
-	
-	float: right;
-	margin-top: 70px;
-	margin-right: 32px;
-}
-
-#sidebar img{
-	width:245px;
-	height: 28px;
-	margin-bottom: 20.08px;
-}
-
 #wrapper{
 
   height: 50px;
@@ -117,7 +86,7 @@ ul {
 }
 #nav li a.fa{
     font-size: 18px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Roboto Condensed', sans-serif;
     padding: 0 16.5px;
     letter-spacing: 0.5px;
     color: #fff;
@@ -240,9 +209,99 @@ ul {
 	line-height: 41px!important;
 }
 
+}
+.footer2 {
+	background: #EBEBEB!important;
+	padding-top: 0px!important;
+	padding-bottom: 0px!important;
+	height: auto!important;
+}
+
+.footer2 .bg{
+	background: #1a6876!important;
+	padding-top: 35px!important;
+	padding-bottom: 35px!important;
+}
+
+.qc-right2 ul li {
+	margin-bottom: 15px!important;
+}
+.bg {
+    width: 1040px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.footer-r {
+    float: right;
+    width: 355px;
+    text-align: right;
+    margin-right: 35px;
+}
+li {
+    list-style: none;
+}
+li {
+    text-align: -webkit-match-parent;
+}
+ul {
+    list-style-type: disc;
+}
 
 
 
+body {
+    font-size: 13px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-family: 'Roboto Condensed', sans-serif;
+    /* background-color: #282828; */
+    min-width: 1040px;
+    color: #000;
+    background-color: #EBEBEB;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
 
- 
+.footer-r ul li a {
+    color: #fff;
+    font-size: 17px;
+    margin: 0 5px;
+}
+.footer-l{
+    width: 400px;
+    float: left;
+    margin-left: 55px;
+}
+.footer-r{
+    float: right;
+    width: 355px;
+    text-align: right;
+    margin-right: 35px;
+}
+.footer-r ul li{
+    float: left;
+}
+.footer-r ul li a{
+    color: #fff;
+    font-size: 17px;
+    margin: 0 5px;
+}
+.footer-l p a{color: #ccc;}
 
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
