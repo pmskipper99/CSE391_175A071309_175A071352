@@ -1,0 +1,307 @@
+#wrapper{
+
+  height: 50px;
+
+  line-height: 50px;
+
+}
+a{
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+
+#nav, #nav ul {
+
+    position: relative;
+
+}
+
+#nav a{
+
+    display: block;
+
+    color: #DBDBDB;
+
+}
+
+#nav li ul li span{
+
+    border-top: 1px solid #404040;
+
+    display: block;
+
+    height: 30px;
+
+    margin: 0 15px;
+
+    font-weight: normal;
+
+    font-size: 14px;
+
+    line-height: 30px;
+
+    width: 165px;
+
+}
+
+#nav li ul li span font{
+
+    float: right;
+
+    color: #9C0208;
+
+}
+
+#nav li ul li:last-child span{
+
+    border-bottom: 1px solid #404040;
+
+}
+
+#nav li ul li ul li span{
+
+    border-bottom: 1px solid #555;
+
+    border-top: none;
+
+}
+
+#nav li ul li ul li a:hover span{
+
+    border-bottom: 1px solid #9C0208;
+
+}
+
+#nav li {
+
+    float: left;
+
+    position: relative;
+
+}
+.bannerb{
+    margin-bottom: 15px;
+}
+#nav li a.fa{
+    font-size: 18px;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding: 0 16.5px;
+    letter-spacing: 0.5px;
+    color: #fff;
+    text-transform: uppercase;
+	border-right:solid 1px #ccc;
+}
+
+#nav li a.fa:hover,#nav li ul a:hover{
+
+    background-color: #ff0000;
+
+    color: #fff;
+
+}
+
+#nav li ul li span:hover{
+
+    border-top: 1px solid transparent;
+
+}
+
+#nav li ul li ul li span:hover{
+
+    border-top: none;
+
+    border-bottom: 1px solid transparent;
+
+}
+
+#nav li a.current,#nav li a:hover{
+
+    color: #99cc33;
+
+}
+
+#nav ul {
+
+    position: absolute;
+
+    width: 190px;
+
+    top: 2.6em;
+
+    display: none;
+
+    background: none repeat scroll 0 0 #191919;
+
+    padding: 15px 0;
+
+    z-index: 1000;
+
+}
+
+#nav ul ul{
+
+    padding: 0;
+
+}
+
+#nav li ul a {
+
+    float: left;
+
+    width: 190px;
+
+}
+
+#nav li ul li ul li a:hover{
+
+    background-color: #9C0208;
+
+    color: #e5e5e5;
+
+}
+
+#nav ul ul {
+
+   top: auto;
+
+   left: 190px;
+
+   background: none repeat scroll 0 0 #666;
+
+}
+
+#nav li:hover ul ul, 
+
+#nav li:hover ul ul ul,
+
+#nav li:hover ul ul ul ul {
+
+    display: none;
+
+}
+
+
+#nav li:hover ul,
+
+#nav li li:hover ul,
+
+#nav li li li:hover ul,
+
+#nav li li li li:hover ul {
+
+    display: block;
+
+}
+
+.menu_beta {
+	background-color: #fff!important;
+	border-bottom: solid 1px #ccc!important;
+	width: 1040px;		
+	    height: 41px!important;
+}
+
+#nav li a.fa {
+	color: #212121;
+	font-size: 13px;
+	height: 41px;
+	line-height: 41px!important;
+}
+
+}
+.footer2 {
+	background: #EBEBEB!important;
+	padding-top: 0px!important;
+	padding-bottom: 0px!important;
+	height: auto!important;
+}
+
+.footer2 .bg{
+	background: #1a6876!important;
+	padding-top: 35px!important;
+	padding-bottom: 35px!important;
+}
+
+.qc-right2 ul li {
+	margin-bottom: 15px!important;
+}
+.bg {
+    width: 1040px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.footer-r {
+    float: right;
+    width: 355px;
+    text-align: right;
+    margin-right: 35px;
+}
+li {
+    list-style: none;
+}
+li {
+    text-align: -webkit-match-parent;
+}
+ul {
+    list-style-type: disc;
+}
+
+
+
+body {
+    font-size: 13px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-family: 'Roboto Condensed', sans-serif;
+    /* background-color: #282828; */
+    min-width: 1040px;
+    color: #000;
+    background-color: #EBEBEB;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.footer-r ul li a {
+    color: #fff;
+    font-size: 17px;
+    margin: 0 5px;
+}
+.footer-l{
+    width: 400px;
+    float: left;
+    margin-left: 55px;
+}
+.footer-r{
+    float: right;
+    width: 355px;
+    text-align: right;
+    margin-right: 35px;
+}
+.footer-r ul li{
+    float: left;
+}
+.footer-r ul li a{
+    color: #fff;
+    font-size: 17px;
+    margin: 0 5px;
+}
+.footer-l p a{color: #ccc;}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
