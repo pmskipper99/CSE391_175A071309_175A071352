@@ -363,7 +363,19 @@ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fiel
     float: left;
     margin-left: 15px;
 }
-
+.left-tin {
+    float: left;
+    background-color: white;
+    width: 725px;
+    padding: 20px;
+}
+.titlename {
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    line-height: 25px;
+}
 
 
 
