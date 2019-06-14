@@ -22,7 +22,7 @@
 				<div class="clear-all"></div>
 			</div>
 			<div class="mainLogin">
-					<form id="from-login" name="frm" action="../BTL/bangdiem.html" method="post">
+					<form id="from-login" name="frm" action="Regal-Free-Bootstrap-Admin-Template/template/admin.html" method="post">
 					<p class="anou" align="middle"> Khu vực dành cho sinh viên </p>
 					<div class="loginField">
 
@@ -48,11 +48,15 @@
 
 		<script type="text/javascript">
 			$('#login').click(function(){
-				if($('#username').val()=='admin' && $('#password').val()=='admin'){
-					window.location.href='../BTL/bangdiem.html';
+				if($('#username').val()=='admin' && $('#password').val()=='admin')
+					($('#username').val()=='tung' && $('#password').val()=='tung'){
+					window.location.href='Regal-Free-Bootstrap-Admin-Template/template/admin.html';
 				}
 
 			});
+
+
+			
 		</script>
 
 		 <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
