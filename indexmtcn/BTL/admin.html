@@ -17,23 +17,22 @@
 					<img src="Image/tab_left.png">
 				</div>
 				<div class="bg-main">
-					<div class="titleFunc" align="middle"> Khu vực dành riêng cho quản trị viên </div>					
+					<div class="titleFunc" align="middle"> Sinh viên </div>					
 				</div>
 				<div class="clear-all"></div>
 			</div>
 			<div class="mainLogin">
-								<form id="from-login" name="frm" action="" method="post">
-					<p class="anou" align="middle"> Khu vực dành riêng cho quản trị viên </p>
+					<form id="from-login" name="frm" action="../BTL/bangdiem.html" method="post">
+					<p class="anou" align="middle"> Khu vực dành cho sinh viên </p>
 					<div class="loginField">
-						<p><span>Tài khoản:</span>
-							<input class="inputLogin" id="username" type="text" name="username" />
-						</p>
-						<p><span>Mật khẩu:</span>
-							<input class="inputLogin" id="password" type="password" name="pass" />
-						</p>
-						<p>
-							<input type="submit" class="button" value="Đăng nhập" />
-						</p>
+
+						<label>Tên đăng nhập : </label>
+						<input type="text" id="username" class="form-control">
+						<br>
+						<label style="margin-top: 10px;margin-right: 20px">Mật khẩu       :</label>
+						<input style="margin-top: 10px;margin-right: -10px" type="password" id="password">
+						<br>
+						<button id="login" style="margin-top: 10px;margin-right: 20px">Đăng nhập</button>
 					<!--	<p>
 							<a href="#" > Quên mật khẩu</a>
 						</p>
@@ -46,5 +45,20 @@
 				</form>
 			</div>
 		</div>
+
+		<script type="text/javascript">
+			$('#login').click(function(){
+				if($('#username').val()=='admin' && $('#password').val()=='admin'){
+					window.location.href='../BTL/bangdiem.html';
+				}
+
+			});
+		</script>
+
+		 <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+  	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js" integrity="sha256-T0Vest3yCU7pafRw9r+settMBX6JkKN06dqBnpQ8d30=" crossorigin="anonymous"></script>
+  	
 	</body>
 </html>
