@@ -1,0 +1,159 @@
+.imgtop{
+    width: 950px;
+    height: 153px;
+    clear: both;
+    margin: auto;
+    background: url(../img/banner-phongTCHC\ \(1\).jpg) no-repeat center;
+    border: 1px solid #165975;
+}
+#main_container {
+    width: 960px;
+    margin: auto;
+    background-color: #F7F9F8;
+}
+#header {
+    width: 955px;
+    margin: auto;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    background-color: #0070c0;
+    z-index: 10;
+    margin-top: 10px;
+    font-size: 13px;
+   
+  }
+  .navbar-nav{
+    margin-left: -13.5em;
+  }
+  .menu p{
+    margin-bottom: 0px;
+    margin-top: 0px;
+   
+    border-left: 1px solid #fff;
+  }
+  
+  .menu .dropdown{
+    margin-top: 0px;
+  }
+  .menu .dropbtn{
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .dropbtn {
+    color: #FFFFFF;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #0070c0;
+    min-width: 200px;
+   
+  }
+  
+  .dropdown-content a {
+    color: #FFFFFF;
+    padding:4px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #E8A029}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover .dropbtn {
+    background-color: #E8A029;
+  } 
+  .col-full {
+    padding: 0 5px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    height: 2950px;
+}
+.col-left {
+    width: 740px;
+    margin-right: 10px;
+    float: left;
+}
+.head{
+  border-radius: 3px 3px 0 0;
+    padding: 0 0 0 10px;
+    line-height: 30px;
+    background-color: #0070c0;
+    
+    height: 2em;
+   
+}
+.head p{
+  color: white;
+ margin-left: 1em;
+}
+ .content {
+  padding: 10px;
+  border: solid 1px #2C83A0;
+  background: #fff;
+  -moz-border-radius: 0 0 3px 3px;
+  border-radius: 0 0 3px 3px;
+}
+.date{
+  font-size: 10px;
+    color: #666;
+}
+.read-more {
+  display: block;
+  width: 100%;
+  text-align: right;
+  color: #0070c0;
+}
+a{
+  color: #165975;
+  
+}
+.col-right {
+  width: 200px;
+    float: right;
+    
+}
+ul {
+  list-style: none;
+}
+.function li {
+  border-bottom: 1px dashed #ccc;
+  margin-bottom: 5px;
+}
+.function li a {
+  display: block;
+  padding: 5px 0px 5px 15px;
+  background: url(http://tcns.ntt.edu.vn/images/arrow-1.png) left 5px no-repeat;
+}
+
+/*footer*/
+#footer {
+  background-color: #0070c0 !important;
+  border-top: 2px solid #555;
+  padding: 30px 10px 20px 10px;
+}
+
+#footer .copyright {
+  text-align: center;
+  color: #fff;
+  line-height: 18px;
+  font-size: 13px;
+}
+.copyright a {
+  color: #fff;
+  font-weight: bold;
+}

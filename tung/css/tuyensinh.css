@@ -1,0 +1,140 @@
+.top-header {
+   
+    position: relative;
+    z-index: 100;
+    color: aliceblue;
+    font-size: 14px;
+   
+}
+.home{
+    display: flex;
+    background-color: #024282;
+  
+}
+.bg-light {
+    background-color: #024282!important;
+   
+}
+.hotline {
+    display: flex;
+    color: #fdb913;
+    margin-left: 40px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #fdb913;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #fdb913;
+}
+.home .input *{
+  color: white;
+}
+
+
+.home .input input {
+    height: 35px;
+    background-color: #012b64;
+    border: none;
+    padding-left: 20px;
+    font-size: 16px;
+    max-width: 100%;
+    margin-top: 10px;
+}
+  .home .input i{
+    color: white;
+    padding-right: 20px;
+  }
+  /*Menu*/
+
+  .header .menu  .navbar-nav li{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    padding-left: 10px;
+    
+  }
+  .header .menu  .navbar-nav li:hover i,.header .menu  .navbar-nav li:hover a{
+    color: #aa914d;
+  }
+  .header .menu  .navbar-nav li i{
+    color: #35699b;
+    margin-right: 5px;
+    font-size: 22px;
+  }
+  .header .menu  .navbar-nav li a{
+    color: rgba(0, 0, 0, 0.897);
+    margin: 0;
+    padding: 0;
+  }
+  #navbarNav{
+      margin-left: 30px;
+     
+  }
+  .header .menu  .navbar-nav {
+    width: 100%;
+    padding-left: 10px;
+}
+/*Button*/
+/*Menu đổ*/
+
+.c-blue-a5 {
+    color: #024282 !important;
+}
+.triangle i {
+    position: absolute;
+    top: 0;
+    font-size: 25px;
+}
+.btn-gnav {
+   
+   
+    line-height: 1;
+    margin: 0 0 0 -50px;
+    padding: 0;
+    height: 50px;
+    
+    left: 50%;
+    z-index: 97;
+}
+.triangle-wrapper {
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    width: 100%;
+    z-index: 3;
+}
+.triangle {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-top: 45px solid white;
+    display: flex;
+    justify-content: center;
+    margin-top: -10px
+   
+}
+
+ 
+.btn{
+    margin-left: 0px
+}
+.triangle a {
+    display: flex;
+    justify-content: center;
+}
+.row{
+    margin-top: 10px
+}
+/*menu*/
+.slide .collapse-handmade {
+    top: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    background-color: rgba(2,66,130,0.95);
+    z-index: 2;
+ 
+}
